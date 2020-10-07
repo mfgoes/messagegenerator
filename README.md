@@ -4,8 +4,8 @@ Web tool for creating messaging images for marketing  &amp; entertainment purpos
 Currently in development. 
 
 ## Upcoming features
--Input to Output of text boxes 
--Responsive message bubble design
--Easily update skins from dropdown menu
--Upload custom font
--Generate PNG image based on text input
+-Input to Output of text boxes <br>
+-Responsive message bubble design<br>
+-Easily update skins from dropdown menu<br>
+-Upload custom font<br>
+-Generate PNG image based on text input<br>
