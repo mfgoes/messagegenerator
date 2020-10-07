@@ -3,7 +3,7 @@ Web tool for creating messaging images for marketing  &amp; entertainment purpos
 
 Currently in development. 
 
-##Upcoming features
+## Upcoming features
 -Input to Output of text boxes 
 -Responsive message bubble design
 -Easily update skins from dropdown menu
